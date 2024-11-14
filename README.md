@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+During my time at TaminICT, I played a key role in developing several crucial software solutions for insured individuals' registration. One of my significant contributions was being a member of "3070" (the National Project Of Social Insurance Organization) team, I developed web forms to facilitate online requests for short-term support, such as marriage allowances and illness compensation. Additionally, I improved the web forms used by insured individuals to register their dependents online, which greatly reduced the need for in-person visits to our insurance branches.<br>• Deployed numerous REST APIs using the JAX-RS library<br>• Developed various EJBs (session and entity beans) for handling business logic<br>• Implemented many front-end features using Angular and Ext JS frameworks<br>• Performed bug fixing and refactored legacy code<br>• Worked extensively with PL/SQL, creating views, triggers, functions, and stored procedures to improve Oracle database performance<br>• Enhanced core Java skills and acquired knowledge of new technologies<br>• Gained experience in Scrum methodology<br>• Participated in system design, planning, estimation, and implementation<br>• Demonstrated the ability to efficiently create elegant solutions, showcasing a strong work ethic and a knack for optimizing time and resources<br>• Mentored new team members, facilitating their integration and growth<br>• Collaborated with other systems to share insured information efficiently
 
-<!--
-**MotaharehGit/MotaharehGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MotaharehGit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MotaharehGit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MotaharehGit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=MotaharehGit&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
